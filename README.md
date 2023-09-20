@@ -28,4 +28,8 @@
 
 - 게임 플레이 영상
   
-  https://github.com/tkdgjs98/VRproject/assets/89759616/e147ef6d-4c99-49e7-90a8-94539973ec75
+  
+
+https://github.com/tkdgjs98/VRproject/assets/89759616/fb4ff330-11ce-4308-97d4-5760624e5f1d
+
+
